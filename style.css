@@ -1,0 +1,31 @@
+.cabecalho-moda {
+    background-color: #BB86FC;
+    color: #fff;
+    
+}
+
+.descricao-moda {
+    background-color: #424250;
+    color: #fff;
+    
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+    color: #fff;
+    
+}
+
+.descricao-casa {
+    background-color: #424250;
+    color: #fff;
+    
+}
+
+.tabelas {
+    
+    align-items: center;
+    width: 300px;
+    height: 100px;
+
+}
